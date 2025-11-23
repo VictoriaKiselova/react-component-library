@@ -11,17 +11,17 @@ npm install
 npm run dev
 npm run build
 
-![ ](public/screenshots/photo_2025-11-24_00-37-01.jpg)
-![ ](public/screenshots/photo_2025-11-24_00-37-14.jpg)
-![ ](public/screenshots/photo_2025-11-24_00-37-19.jpg)
-![ ](public/screenshots/photo_2025-11-24_00-37-37.jpg)
-![ ](public/screenshots/photo_2025-11-24_00-37-40.jpg)
-![ ](public/screenshots/photo_2025-11-24_00-37-44.jpg)
-![ ](public/screenshots/photo_2025-11-24_00-37-57.jpg)
-![ ](public/screenshots/photo_2025-11-24_00-38-00.jpg)
-![ ](public/screenshots/photo_2025-11-24_00-38-03.jpg)
-![ ](public/screenshots/photo_2025-11-24_00-38-19.jpg)
-![ ](public/screenshots/photo_2025-11-24_00-38-23.jpg)
+![ ](https://raw.githubusercontent.com/VictoriaKiselova/react-component-library/main/screenshots/photo_2025-11-24_00-37-01.jpg)
+![ ](https://raw.githubusercontent.com/VictoriaKiselova/react-component-library/main/screenshots/photo_2025-11-24_00-37-14.jpg)
+![ ](https://raw.githubusercontent.com/VictoriaKiselova/react-component-library/main/screenshots/photo_2025-11-24_00-37-19.jpg)
+![ ](https://raw.githubusercontent.com/VictoriaKiselova/react-component-library/main/screenshots/photo_2025-11-24_00-37-37.jpg)
+![ ](https://raw.githubusercontent.com/VictoriaKiselova/react-component-library/main/screenshots/photo_2025-11-24_00-37-40.jpg)
+![ ](https://raw.githubusercontent.com/VictoriaKiselova/react-component-library/main/screenshots/photo_2025-11-24_00-37-44.jpg)
+![ ](https://raw.githubusercontent.com/VictoriaKiselova/react-component-library/main/screenshots/photo_2025-11-24_00-37-57.jpg)
+![ ](https://raw.githubusercontent.com/VictoriaKiselova/react-component-library/main/screenshots/photo_2025-11-24_00-38-00.jpg)
+![ ](https://raw.githubusercontent.com/VictoriaKiselova/react-component-library/main/screenshots/photo_2025-11-24_00-38-03.jpg)
+![ ](https://raw.githubusercontent.com/VictoriaKiselova/react-component-library/main/screenshots/photo_2025-11-24_00-38-19.jpg)
+![ ](https://raw.githubusercontent.com/VictoriaKiselova/react-component-library/main/screenshots/photo_2025-11-24_00-38-23.jpg)
 
 # React + TypeScript + Vite
 
