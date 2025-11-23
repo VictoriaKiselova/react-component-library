@@ -1,0 +1,20 @@
+.sidebarMenuWrapper {
+  width: 300px;
+  min-height: min-content;
+  height: 100vh;
+  padding: 24px;
+  position: absolute;
+  right: -300px;
+  top: 0;
+  background-color: #e9f1f5;
+  opacity: 0;
+  transition: right 0.5s ease, opasity 0.3s ease;
+}
+.visibleSidebar {
+  right: 0;
+  opacity: 1;
+}
+.sidebarMenuWrapper.close {
+  right: -300px;
+  opacity: 0;
+}

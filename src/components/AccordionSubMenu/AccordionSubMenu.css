@@ -1,0 +1,30 @@
+.subMenuWrapper {
+  padding: 6px 8px;
+  list-style-type: none;
+}
+.subMenuItem:not(:last-child) {
+  margin-bottom: 12px;
+}
+.subMenuTitle {
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 1.4;
+  letter-spacing: 0.02em;
+  color: rgb(59, 59, 59);
+  text-decoration: underline;
+  margin-bottom: 8px;
+}
+.subMenuDescr {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.4;
+  letter-spacing: 0.02em;
+  color: rgb(63, 62, 62);
+  max-height: 0;
+  opacity: 0;
+  transition: max-height 0.3s ease, opacity 0.1s ease;
+}
+.active {
+  max-height: max-content;
+  opacity: 1;
+}

@@ -1,0 +1,38 @@
+.toastWrapper {
+  position: fixed;
+  bottom: 32px;
+  right: -200px;
+  padding: 16px 16px;
+  background-color: rgb(186, 218, 233);
+  width: 150px;
+  border-radius: 16px;
+  transition: right 0.5s ease, opacity 0.3s ease;
+  opacity: 0;
+  z-index: 2;
+}
+.toastWrapper.active {
+  right: 32px;
+  opacity: 1;
+}
+.text {
+  margin: 0;
+  font-size: 18px;
+  line-height: normal;
+  text-align: center;
+}
+.closeButton {
+  border: none;
+  position: absolute;
+  right: 16px;
+  top: 16px;
+  cursor: pointer;
+  background-color: transparent;
+  transition: background 0.3s ease;
+}
+.closeButton:focus {
+  outline: none;
+}
+.closeButton:hover .close,
+.closeButton:focus .close {
+  stroke: rgb(255, 255, 255);
+}
