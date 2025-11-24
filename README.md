@@ -11,7 +11,7 @@ npm install
 npm run dev
 npm run build
 
-![ ][(https://raw.githubusercontent.com/VictoriaKiselova/react-component-library/main/screenshots/photo_2025-11-24_00-37-01.jpg)](https://github.com/VictoriaKiselova/react-component-library/blob/main/screenshots/photo_2025-11-24_00-37-01.jpg?raw=true)
+![ ](https://github.com/VictoriaKiselova/react-component-library/blob/main/screenshots/photo_2025-11-24_00-37-01.jpg?raw=true)
 ![ ](https://raw.githubusercontent.com/VictoriaKiselova/react-component-library/main/screenshots/photo_2025-11-24_00-37-14.jpg)
 ![ ](https://raw.githubusercontent.com/VictoriaKiselova/react-component-library/main/screenshots/photo_2025-11-24_00-37-19.jpg)
 ![ ](https://raw.githubusercontent.com/VictoriaKiselova/react-component-library/main/screenshots/photo_2025-11-24_00-37-37.jpg)
